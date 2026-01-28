@@ -1,9 +1,9 @@
 # 👋 Hi, I’m @llllys
 
 ### 📊 GitHub Stats
-<p align="center">
+<p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=llllys&show_icons=true&theme=transparent&hide_border=true" alt="llllys's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llllys&layout=compact&theme=transparent&hide_border=true" alt="llllys's Top Langs" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llllys&layout=compact&theme=transparent&hide_border=true" alt="llllys's Top Langs" />
 </p>
 
 ---
