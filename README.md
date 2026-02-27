@@ -1,12 +1,8 @@
 # 👋 Hi, I’m @llllys
 
-### 📊 GitHub Stats
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=llllys&show_icons=true&theme=transparent&hide_border=true" alt="llllys's GitHub stats" />
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llllys&layout=compact&theme=transparent&hide_border=true" alt="llllys's Top Langs" />
-</p>
-
----
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+![CARLA](https://img.shields.io/badge/CARLA-Simulator-blue)
+![Reinforcement Learning](https://img.shields.io/badge/Safe--RL-PPO%2FCPO-green)
 
 ### 💞️ Looking to Collaborate on
 - [ ] Large Language Models for Autonomous Driving (VLA/VLM)
